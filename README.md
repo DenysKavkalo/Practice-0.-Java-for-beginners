@@ -11,3 +11,4 @@ También he comprobado el código de la respuesta, que debería ser correcto, pe
 
 ![image](https://github.com/DenysKavkalo/Practice-0.-Java-for-beginners/assets/117307592/11ddaf2d-d84c-4591-9a5f-4698658124be)
 
+He probado con varios formatos de codificación, incluido UTF-8, pero no consigo solucionarlo.
