@@ -7,7 +7,7 @@ Pero al darle al *Check* me dice que es incorrecto:
 
 ![image](https://github.com/DenysKavkalo/Practice-0.-Java-for-beginners/assets/117307592/b87660ec-eb67-45ae-83bf-8acfdfd3428f)
 
-Y ya lo he comprobado el código que debería ser correcto, pero sigue mostrando que es incorrecto:
+También he comprobado el código de la respuesta, que debería ser correcto, pero sigue mostrando que es incorrecto aunque sea idéntico al mío:
 
 ![image](https://github.com/DenysKavkalo/Practice-0.-Java-for-beginners/assets/117307592/11ddaf2d-d84c-4591-9a5f-4698658124be)
 
